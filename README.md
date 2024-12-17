@@ -1,4 +1,6 @@
-## Hi there 👋
+* Projeto Desenvolve - Itabira
+* Introdução à Programação Web
+* PDITA008
 
 <!--
 **Marco10Jr04/Marco10Jr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
